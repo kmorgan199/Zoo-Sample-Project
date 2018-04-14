@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto');
+
+body {
+    background-color: rgba(124, 230, 63, 0.918);
+    font-family: 'Roboto', sans-serif;
+}
+.ul {
+   list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    grid-template-rows: 1fr 2fr;
+  
+  }
+  
+  header {
+    background: red;
+    overflow: auto;
+    padding: 0 64px;
+    color: #EFEFEF;
+  }
+  
+h1 {
+    color: teal; 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-style: italic;
+    padding-top: 100px;
+}
+
+header {
+    border-top: 2px dotted blue;
+    background-color: rebeccapurple;
+
+}
+
+section {
+    background-color: palegoldenrod;
+    display: inline;}
+
+    h2 {color: pink;font-size: 30px; }
+    
+
+    #description {
+        color: blue;
+    }
+
+    .bird {
+        font-size: 30px;
+        color: blue; 
+
+    }
+
+    .mammal {
+      font-size: 30px;
+        color: red; 
+    }
+
+    .fish {
+        font-size: 30px;
+        color: orange
+    }
+
+    .gray {
+
+        font-size: 30px;
+        background-color: grey;
+    }
+
+    .sienna {
+        font-size: 30px; 
+        background-color: sienna; 
+    }
+   .tiger {
+       font-size: 30px;
+       color: sienna;
+
+   }
+
+   .
